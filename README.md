@@ -36,7 +36,7 @@ echo $liczba
 
 w python ``print`` wyrzyci ci cos w konsoli
 
-![Tux, the Linux mascot](/Linux-Tux-1200x675 (1).png)
+![Tux, the Linux mascot](Kajojanv2.github.io/Linux-Tux-1200x675 (1).png)
 
 
 
